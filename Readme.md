@@ -14,6 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 GMSServices.provideAPIKey("INSERT KEY HERE")
 ```
 
+* Firebase project https://firebase.google.com/
+
 * Firebase config file. You can get it at https://support.google.com/firebase/answer/7015592 and add it to the project
 
 ### Installing
