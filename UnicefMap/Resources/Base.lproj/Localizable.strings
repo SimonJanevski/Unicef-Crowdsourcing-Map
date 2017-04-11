@@ -1,0 +1,114 @@
+/* 
+  Localizable.strings
+  UnicefMap
+
+  Created by Simon Janevski on 10/15/16.
+  Copyright © 2016 Simon Janevski. All rights reserved.
+*/
+
+"Macedonian" = "Macedonian";
+"Albanian" = "Albanian";
+"English" = "English";
+
+"Macedonian.Picker" = "Македонски";
+"Albanian.Picker" = "Shqip";
+"English.Picker" = "English";
+
+"NSCameraUsageDescription" = "Used for taking photos of the problems";
+"NSLocationWhenInUseUsageDescription" = "Used for getting the location of the problems";
+"NSPhotoLibraryUsageDescription" = "Used for uploading already taken pictures of problems";
+
+"tutorial.Browsing" = "BROWSING";
+"tutorial.Report" = "REPORT BARRIERS OR POSITIVE EXAMPLES";
+
+"tutorial" = "• To see barriers and positive examples reported, click on the existing icons placed on the map.\n\n• If you want to confirm content reported, select AGREE.\n\n• To report inadequate or incorrect content, select REPORT FALSE OR INAPPROPRIATE CONTENT\n\nAny one given location may have multiple reports. To view the different reports tap on the displayed icon. You will notice accessibility types change every time you tap. To learn more about the specific report select DETAILS.";
+
+"tutorial.Steps" = "1. Select the REPORT button from the menu or from the accessibility DESCRIPTIONS.\n\n2. Enable the GPS option to allow the application to find your location on the map. Your location should be the same as the location of the situation you want to report.\n\n3. To report an example you must upload a photo of the example taken with GPS coordinates embedded in the image. You can choose a photo taken earlier from your photo gallery or take a new photo with the app.\n\n4. Select the example type - Positive or Negative.\n\n5. Select the relevant accessibility icon. You can learn more about the different types in ACCESSIBILITY DESCRIPTIONS.\n\n6. Enter a brief text description. You can also REPORT without giving a description.\n\n7. Accept the application Terms of Use.\n\n8. Select REPORT.\n\n9. If you submit a report by mistake, find your post on the map and use the REPORT FALSE OR INAPPROPRIATE CONTENT option to have it deleted.\n\nIf you do not have access to the internet at the time of submitting your report, the application will remember the details you have entered and will register your report the next time you have access to the internet and re-activate the application.";
+
+"about" = "Have you ever felt excluded? Children and adults, who find it difficult to see, learn, walk or hear often feel excluded. Many barriers can prevent them from participating in the same way as others. Most of these barriers are imposed by society. A child in a wheelchair, for example, may want to go to school, too. But maybe he or she is prevented because the school doesn't have a ramp or the community does not provide support. For everyone to be included, we need to change existing rules, attitudes and sometimes even buildings, walkways, street crossings and playgrounds.\n\nThe mobile application ”No Barriers“ gives you the opportunity as a user of iPhone or Android to get involved in mapping the obstacles faced by children and adults with disabilities. You can also map the positive examples where obstacles have been removed or the institution is inclusive and accessible.\n\nThe mobile application is part of the UNICEF supported campaign “For a Childhood Without Barriers” with financial assistance from the European Union.";
+
+"petition" = "According to the Law on Protection Against Discrimination “Discrimination is any unjustified legal or factual, direct or indirect differentiation or unequal treatment or omission (exclusion, restriction or preference) of individuals or groups on the grounds of intellectual and physical disability”.\n\nAccording to Article 8 of the Law, discrimination of persons with intellectual and physical disabilities also exists when there is no action taken to remove the restrictions, i.e. when no action is taken to adapt the infrastructure and space, the use of publicly available resources or the participation in public and social life.\n\nIn other words, failure to secure adequate accessibility and availability of and to facilities, including access to information and services for people, including children with disabilities, can be an act of discrimination.\n\nIf you believe that you are a victim of discrimination on the grounds of accessibility and availability, you can file a formal complaint to";
+
+"terms of usage" = "• The application is a crowdsource mobile application open to all users who agree with these Terms. The views expressed in the Application should not be taken, in any way, to reflect the official opinion of UNICEF or the European Union. UNICEF and the European Commission are not responsible for the content published or any use that may be made of the information it contains.\n\n• Users agree to report - using the “Report a false or inappropriate content” option – any content that they identify as being false, unlawful, or content that does not comply with these Terms.\n\n• Users agrees to only submit content that depicts the real situation and only on topics outlined in the “Descriptions” of the Application. Users may not post violent, nude, partially nude, discriminatory, unlawful, infringing, hateful, pornographic or sexually suggestive photos or other content via the Application.\n\n• Users agree to adhere to local privacy laws and only submit content with the informed consent of any individuals depicted in images.The application does not collect personal information and only stores the data submitted by users.\n\n• You acknowledge that, in order to ensure compliance with legal obligations, the Application Administrator may be required to review certain content submitted to determine whether it is legal or whether it violates these Terms (such as when unlawful content is reported to us).  The Application Administrator may also modify, delete, or refuse to display content that is believed to violate the law or these Terms. Otherwise UNICEF or the European Union, and the European Commission have no obligation to monitor or review any content submitted via the Application.";
+
+"accessOutsideName" = "Accessible building - outside";
+"accessOutsideDescription" = "All facilities, whether public or private, must be accessible to children and adults with disabilities. If there are stairs at the entrance of the building, the obstacle can be removed by setting up a ramp with handrails to provide access to the facility.\n\nHowever, it is also important how the ramp is set up. For example, it is important that there is enough space in front of the ramp for a wheelchair user to approach it; that there are no cars parked in front of it or that the curb is not too high. Also, the ramp must be placed at an appropriate angle so that a child or adult who uses a wheelchair or has mobility difficulties is able to climb it independently and with ease.\n\nThe handrails are a necessary safety measure, providing support to children using wheelchairs, crutches or white canes, and to all others in need of support.";
+
+"accessInsideName" = "Accessible buildings - inside";
+"accessInsideDescription" = "Having a ramp to enter a building doesn’t always make a building accessible. Buildings should also be accessible on the inside. There should be a ramp with a handrail between floors or an elevator which is wide enough for a child or adult who uses a wheelchair to be able to enter it. If there are smaller levels or shorter steps in the building, the obstacle can be overcome by setting up platforms or interior ramps which have a slight slope and wide enough. This will allow independent movement of children or adults who use wheelchairs or with mobility difficulties.";
+
+"crosswalkName" = "Accessible walkways";
+"crosswalkDescription" = "Like all children and adults, people with disabilities have the right to move freely and independently using the walkways. Walkways should be accessible to all children, regardless of whether it is a path to the school, a park or a mall. Walkways should be wide enough for a child or adult who uses a wheelchair to move freely, and curbs - where the walkway connects to the street or road – should be low and without steps.\n\nTo enable children and adults with visual impairments to move freely and independently, walkways should also have tactile paths. Tactile paths are textured ground surfaces which make for easier orientation, independent movement and access to public facilities for children and adults with visual impairments. The textured surface can be easily tracked by touch, and because its material is different from the material of the base, it can be recognized by sound - it makes a different sound when touched with a white cane.";
+
+"crosswalk2Name" = "Accessible pedestrian crossings";
+"crosswalk2Description" = "Crossing the street can be dangerous for all children, but if there are no accessible pedestrian crossing, it becomes impossible for children with disabilities. Accessible pedestrian crossings should have an audible signal and a vertical signalization button. By pressing the button, traffic participants are warned that a child or adult with a visual impairment or mobility difficulty is crossing the street.\n\nThe walkways should also be sufficiently low and lowered in certain places to enable the child or adult who uses a wheelchair to access the street and intersection. It is also necessary for the lowered pavements to have tactile paths to guide children and adults with visual impairments so that they can cross the street independently.";
+
+"equalTreatmantName" = "Equal treatment";
+"equalTreatmantDescription" = "One of the most difficult barriers to overcome are attitudes other people carry towards children and adults with disabilities. Whether from ignorance, fear, or misunderstanding, these attitudes keep people from appreciating and experiencing the full potential a child with a disability can achieve. Unequal treatment in terms of opportunities, refusal or rejection of children with disabilities greatly affects their inclusion and participation in society. Some parents do not accept that children with disabilities go to the same school as their children, or socialize and play together. While others are accepting. Some business refuse to serve adults and children with disabilities in the same way they serve adults and children without disabilities. While others welcomе children and adults with disabilities.";
+
+"hearingName" = "Accessibility for persons with hearing impairments";
+"hearingDescription" = "To enable people with hearing impairments to participate in activities, it is important that information in public and other places is communicated visually, not only audibly. For instance, subtitles on the big screen at the cinema or during a theater performance, sign language during children’s TV program help remove communication barriers. It is also important that buildings have suitable acoustics inside, and surrounding sound and noise is regulated.";
+
+"parkingName" = "Accessible parking";
+"parkingDescription" = "For every 100 parking spaces, there should be at least three spaces available for children and adults with disabilities. Accessible parking spaces should be flat and located adjacent to the accessible entrance of the building. They should be wider than the standard spaces to enable easier access to the vehicle and to allow some space for taking the wheelchair in and out of the vehicle. Other vehicles should not park between the accessible parking space and the entrance to the building or street, so that the child or adult using a wheelchair can pass through.";
+
+"playgroundName" = "Accessible playgrounds";
+"playgroundDescription" = "Parks and playgrounds are places where children like to spend much of their free time. Like all other children, children with disabilities love to play. That’s why, children’s playgrounds and parks need to be accessible and available. The equipment and swings in parks should also be adapted to children with disabilities.";
+
+"publicToaletsName" = "Accessible public toilets";
+"publicToaletsDescription" = "Like all other children, children with disabilities need to use the toilet. Moreover, like all other children, they get to the age when they want to use the toilet on their own, independently and without the help of an adult. Public toilets should be sufficiently spacious to allow free wheelchair movement, have handles and handrails, and they must provide privacy.";
+
+"publicTransportName" = "Accessible public transport";
+"publicTransportDescription" = "Whether traveling with a parent, companion, friend or alone, children with disabilities, like all children, have a need to use public transport (air, rail and bus transport). To enable children and adults who use wheelchairs to enter independently, public transport vehicles should have an access ramp or a wheelchair platform. Furthermore, public transport vehicles should allocate space for wheelchairs. They should also have visual signs for children and adults with hearing impairments and audible information for children and adults with visual impairments, so that they know at which station they have boarded or at which station they need to get off.";
+
+"ScreenTitle.Map" = "Map";
+"ScreenTitle.Report" = "Report";
+"ScreenTitle.BarrierTypes" = "Description";
+"ScreenTitle.BarrierTypes.Title" = "Accessibility types";
+"ScreenTitle.More" = "More";
+
+"Map.Pin.More" = "Details";
+
+"ReportForm.Photo" = "Photo:";
+"ReportForm.TypeOfProblem" = "Type of example:";
+"ReportForm.Positive" = "Positive";
+"ReportForm.Negative" = "Negative";
+"ReportForm.Description" = "Description";
+"ReportForm.Terms" = "I accept the terms of use";
+"ReportForm.Report" = "Report";
+"ReportForm.Error" = "Error";
+"ReportForm.ErrorDescription" = "Please select a photo";
+"ReportForm.TypeOfProblemError" = "Please select the type of example";
+"ReportForm.Success.Report" = "Show on map";
+"ReportForm.Success.Text" = "Your report is succesfully submited!";
+"ReportForm.ErrorSubmiting" = "Something went wrong";
+"ReportForm.TryAgain" = "Please try again";
+"ReportForm.IAgree" = "I Agree";
+"ReportForm.WrongProblem" = "Why do you believe this content is false or inappropriate?";
+"ReportForm.EnterSomeText" = "Please enter text";
+"ReportForm.ReportFalseProblem" = "Report false or inappropriate content";
+"ReportForm.ReportFalseProblem.Success" = "Report on false or inappropriate content submitted";
+"ReportForm.NoImage" = "No Image";
+"ReportForm.InvalidPhoto" = "Invalid Photo";
+"ReportForm.InvalidPhotoDesription" = "Please choose another photo with embedded GPS coordinates";
+"ReportForm.LocationDisabled" = "Location services disabled";
+"ReportForm.LocationDisabledDescription" = "This application requires that  Location Services is turned on so that your reports are located on the map. Please enable location services in your phone Settings and return to the app.";
+"ReportForm.LocationDisabledAction" = "Go To Settings";
+"ReportForm.InternetDisabled" = "Internet connection is disabled";
+"ReportForm.InternetDisabledDescription" = "No internet connection, report saved. Enable internet to send report.";
+"ReportForm.OK" = "OK";
+
+"BarrierTypes.Report" = "Report";
+
+"Settings.Language"  = "Language";
+"Settings.Tutorial"  = "Tutorial";
+"Settings.TermsOfUse"  = "Terms of use";
+"Settings.SubmitPetition"  = "File a formal complaint";
+"Settings.About"  = "About";
+"Settings.SelectLanguage"  = "Please select language";
+
+"Cancel" = "Cancel";
+
+"PublicAttorney" = "The Office of the Ombudsman\nhttp://ombudsman.mk/";
+"KZD" = "Commission for Protection\nagainst Discrimination\nhttp://www.kzd.mk/";
+"LegalInfo" = "Legal Information\nhttps://www.unicef.org/about/legal.html";

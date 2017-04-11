@@ -1,0 +1,114 @@
+/*
+ Localizable.strings
+ UnicefMap
+ 
+ Created by Simon Janevski on 10/15/16.
+ Copyright © 2016 Simon Janevski. All rights reserved.
+ */
+
+"Macedonian" = "Macedonian";
+"Albanian" = "Shqip";
+"English" = "English";
+
+"Macedonian.Picker" = "Македонски";
+"Albanian.Picker" = "Shqip";
+"English.Picker" = "English";
+
+"NSCameraUsageDescription" = "Shërben për fotografim të rasteve";
+"NSLocationWhenInUseUsageDescription" = "Shërben për incizim të lokacionit të rasteve";
+"NSPhotoLibraryUsageDescription" = "Shërben për ngarkim të fotografisë së aparatit tuaj";
+
+"tutorial.Browsing" = "SHFLETIMI";
+"tutorial.Report" = "PARAQIT PENGESA OSE RASTE POZITIVE";
+
+"tutorial" = "• Për t'i parë rastet e paraqitura, shtypeni ndonjë nga ikonat ekzistuese në hartë.\n\n• Nëse dëshironi ta vërtetoni përmbajtjen e paraqitur, zgjedhni PAJTOHEM.\n\n• Për të paraqitur përmbajtje joadekuate ose jo të sakta, zgjedhni PARAQIT PËRMBAJTJE JO TË SAKTË OSE JOADEKUATE.\n\nNë një lokacion mund të ketë më shumë raportime të ndryshme. Për t'i parë të gjitha rastet, duhet të shtypni më shumë herë  ikonën e shfaqur. Do të vëreni që do ndryshohen llojet e aksesit. Për të mësuar më shumë rreth ndonjë raportimi konkret, zgjedhni DETAJE.";
+
+"tutorial.Steps" = "1. Zgjedh PARAQIT nga menyja ose nga përshkrimi i secilit lloj të aksesit.\n\n2. Nëse ka nevojë, aktivizoni opsionin GPS në pajisjen ose aparatin tuaj. Lokacioni në të cilin ndodheni duhet të jetë i njëjtë me lokacionin e rastit që dëshironi ta paraqitni.\n\n3. Ngarkoni fotografi të pengesës ose të ndonjë rasti pozitiv. Zgjedhni nga galeria e fotove ose fotografoni. Paraqitjen e rastit mund ta bëni vetëm nëse ngarkoni fotografi. Fotografia e ngarkuar duhet të bëhet me GPS të aktivizuar, që të mund të shënjohet në hartë në lokacionin, në të cilin është bërë.\n\n4. Zgjedhni nëse rasti në fjalë është pozitiv ose negativ.\n\n5. Zgjedhni ikonën e posaçme për akses. Për llojet e aksesit mund të informoheni në opsionin PËRSHRIMI.\n\n6. Bëni përshkrim të shkurtër. Mund të paraqitni rastin edhe pa bërë përshkrim.\n\n7. Pranoni kushtet për përdorim të aplikacionit.\n\n8. Zgjedhni PARAQIT.\n\n9. Nëse keni dorëzuar paraqitje të gabuar, gjejeni atë në hartë dhe përdoreni opsionin PARAQIT PËRMBAJTJE JO TË SAKTË OSE JOADEKAUTE për ta fshirë atë.\n\nNëse nuk keni qasje në internet në kohën e dorëzimit të paraqitjes, aplikacioni do t'i ruajë të dhënat e shënuara dhe do t'i regjistrojë posa të lidheni në internet dhe posa ta hapni aplikacionin tuaj.";
+
+"about" = "A jeni ndjerë ndonjëherë të përjashtuar? Fëmijët dhe të rriturit, të cilët kanë vështirësi më shikimin, mësimin, lëvizjen ose dëgjimin, shpeshherë ndjehen të përjashtuar. Shumë gjera i parandalojnë ata nga pjesëmarrja në aktivitete sikurse të tjerët. Pjesën më të madhe të këtyre pengesave i imponon shoqëria. Për shembull, një fëmijë në karrocë dëshiron të shkojë në shkollë, mirëpo përballet me pengesa për shkak se shkolla nuk posedon platformë (rampë), ose për shkak se nuk ka mbështetje nga bashkësia. Për t’i përfshirë të gjithë ne duhet t’i ndryshojmë rregullat dhe qëndrimet e tanishme, por edhe ndërtesat, shtigjet për këmbësorë, vendkalimet dhe vendet ku lozin fëmijët.\n\nAplikacioni për celularë “Pa pengesa” ju ofron mundësi si shfrytëzues të iPhone-it dhe Android-it të mund të përfshiheni në detektimin e pengesave, me të cilat përballen fëmijët dhe të rriturit me paaftësi. Po  ashtu mund të shënjoni edhe shembuj pozitiv nga lokacione, në të cilat janë hequr pengesat ose nëse institucioni ka qasje inkluzive dhe mundëson akses.\n\nAplikacioni i celularëve është pjesë e fushatës se UNICEF-it “Për fëmijëri pa pengesa”, që mbështetet financiarisht nga Bashkimi Evropian.";
+
+"petition" = "Sipas ligjit për mbrojtje nga diskriminimi “Diskriminim është çdo dallim i pajustifikuar ligjor dhe faktik, i drejtpërsëdrejti dhe i tërthortë ose veprim jo i barabartë dhe lëshim (përjashtim, kufizim ose dhënie përparësi) në raport me persona ose grupe, duke u bazuar në .... paaftësi mendore dhe fizike.”\n\nSipas nenit 8 të ligjit, diskriminimi i personave me paaftësi mendore dhe trupore ekziston edhe kur nuk ndërmerren masa për mënjanim të kufizimeve, gjegjësisht kur nuk ndërmerren masa për përshtatje të infrastrukturës dhe hapësirës, shfrytëzim të resurseve të dispouneshme publike, ose pjesëmarrje në jetën publike dhe shoqërore.\n\nMe fjalë tjera akti i diskriminimit ngjan kur nuk arrihet të sigurohet akses dhe qasje në dhe nga objekte, përfshirë edhe qasjen në informacione dhe shërbime për personat, si dhe fëmijët me paaftësi.\n\nNëse besoni se jeni viktimë e diskriminimit në bazë të aksesit dhe qasjes, mund të parashtroni një ankesë formale në zyrën e";
+
+"terms of usage" = "• Është aplikacion për celular kraudsours (crowdsource) i hapur për të gjithë shfrytëzuesit, të cilët pajtohen me këto kushte. Assesi nuk duhet të konsiderohet se qëndrimet e shprehura në aplikacion e reflektojnë qëndrimin zyrtar të UNICEF-it ose të Bashkimit Evropian. UNICEF-i dhe Komisioni Evropian nuk janë përgjegjës për përmbajtjen e publikuar, e as për çfarëdo qoftë përdorimi të informacioneve të përfshira në aplikacion.\n\n• Përdoruesit pajtohen të paraqesin -  me ndihmën e opsionit “PARAQISNI PËRMBAJTJE JO TË SAKTË” – çfarëdo  përmbajtje, që konsiderojnë se është e pavërtetë, joligjore, ose nuk është në pajtim me këto Kushte.\n\n• Përdoruesit pajtohen të dorëzojnë vetëm përmbajtje, e cila e reflekton gjendjen reale vetëm për temat e theksuara në “Përshkrimin” e aplikacionit. Përdoruesit nuk guxojnë që përmes aplikacionit të publikojnë fotografi me dhunë, lakuriqësi, gjysmë lakuriqësi, përmbajtje diskriminuese dhe joligjore, shkelje të normave, urrejtje, fotografi pornografike ose fotografi që sugjerojnë përmbajtje seksuale dhe foto tjera të ngjashme.\n\n• Përdoruesit janë pajtuar t’iu përmbahen ligjeve lokale për privatësi, andaj duhet të lëshojnë përmbajtje me pëlqim dhe njohuri të individëve të paraqitur në fotografi.\n\n•Aplikacioni nuk grumbullon informacione personale dhe i ruan vetëm të dhënat e dërguara nga shfrytëzuesit.\n\n• Përdoruesit janë të vetëdijshëm se për të siguruar harmonizim me detyrimet ligjore, ndoshta administratori i aplikacionit do të duhet të rishikojë disa përmbajtje të lëshuara, që të vërtetojë nëse janë ligjore ose nëse i shkelin Kushtet përkatëse (si p.sh. kur neve na paraqiten përmbajtje joligjore). Po ashtu, administratori i aplikacionit mund ta ndryshojë, fshijë ose refuzojë ta publikojë përmbajtjen, për të cilën konsideron se është në kundërshtim me ligjin ose me këto Kushte. Në fakt, UNICEF-i, Bashkimi Evropian dhe Komisioni Evropian nuk e kanë për detyrë t’i ndjekin ose rishikojnë përmbajtjet e dorëzuara përmes aplikacionit.";
+
+"accessOutsideName" = "Aksesi në ndërtesa nga jashtë";
+"accessOutsideDescription" = "Të gjitha objektet, qoftë publike ose private duhet të posedojnë qasje për fëmijët dhe të rriturit me paaftësi. Nëse ka shkallë në hyrjes të objektit, përmes vendosjes së platformës (rampës) me parmakë, do të mund të mënjanohet pengesa dhe lehtësohet aksesi në objekt.\n\nSidoqoftë, me rëndësi është edhe mënyra sesi do të vendoset rampa. Për shembull me rëndësi është që para rampës të ketë hapësirë të mjaftueshme, që të mund të kalohet me karrocë, të mos ketë makina të parkuara ose trotuar me nivel jo shumë të ngritur. Po ashtu rampa duhet të vendoset në kënd të vogël, që fëmija ose personi i rritur në karrocë ose me vështirësi në lëvizje të mund ta kalojë në mënyrë të pavarur dhe pa shumë mund.\n\nParmakët janë element i domosdoshëm i sigurisë, në të cilin mbështeten fëmijët, të cilët shfrytëzojnë karrocë, paterica ose shkopinj të bardhë (bastun), por edhe për të gjithë personat që kanë nevojë të mbështeten.";
+
+"accessInsideName" = "Aksesi në ndërtesa nga brenda";
+"accessInsideDescription" = "Nganjëherë nuk është e nevojshme vetëm të ketë rampë para hyrjes së ndërtesës. Objekti duhet të ketë qasje edhe nga brenda. Duhet të ketë rampë dhe parmakë ndërmjet kateve ose në ashensorë, që do të ketë gjerësi të mjaftueshme, ku do të mund të hyjë fëmija ose fëmijët dhe të rriturit që përdorin karrocë. Nëse ekzistojnë nivele të vogla në objekte, pengesa mund të tejkalohet përmes vendosjes së platformave, ose përmes rampave të brendshme me pjerrtësi dhe gjerësi të mjaftueshme, që në mënyrë të pavarur të mund të lëvizin fëmijët dhe të rritur, të cilët shfrytëzojnë karrocë ose lëvizin më rëndë.";
+
+"crosswalkName" = "Shtigje për këmbësorë me akses";
+"crosswalkDescription" = "Sikurse të gjithë fëmijët dhe të rriturit, personat me paaftësi kanë të drejtë të lëvizin lirshëm dhe në mënyrë të pavarur, duke i shfrytëzuar shtigjet e këmbësorëve. Shtigjet e këmbësorëve duhet të jenë të qasshme për të gjithë fëmijët, pavarësisht nëse është fjala për shteg pranë shkollës, në park ose qendër tregtare. Shtigjet e këmbësorëve duhet të jenë mjaftueshëm të gjera, që fëmija me karrocë të mund të lëvizë lirshëm, si dhe të mos ketë shkallë ose nivel të lartë pranë vendit ku shtegu për këmbësorë lidhet me rrugën.\n\nPër t’iu mundësuar fëmijëve dhe të rriturve me paaftësi mendore të lëvizin lirshëm dhe në mënyrë të pavarur në shtigjet për këmbësorë duhet të ketë shtigje taktile. Ato janë sipërfaqe me relief, të cilat ndihmojnë për orientim më të lehtë në hapësirë, lëvizje të pavarur dhe qasje në objekte publike të fëmijëve dhe të rriturve me shikim të dëmtuar. Struktura e reliefit mund të ndiqet lehtë me të prekur, edhe për faktin se është material, që dallohet nga pjesa tjetër e sipërfaqes, dallohet edhe për nga zëri, sepse lëshon tingull më ndryshe kur preket me shkopin e bardhë.";
+
+"crosswalk2Name" = "Qasje në vendkalime për këmbësorë ";
+"crosswalk2Description" = "Kalimi i rrugës mund të jetë e rrezikshme për të gjithë fëmijët, mirëpo nëse nuk ka qasje në vendkalime për këmbësorë atëherë është i pamundshëm kalimi i rrugës nga fëmijët me paaftësi. Vendkalimet për këmbësorë duhet të kenë audio sinjal dhe sustë për sinjalizim vertikal. Me shtypjen e sustës iu tërhiqet vërejtja pjesëmarrësve në trafik se është duke e kaluar rrugën një fëmijë ose person i rritur me shikim të dëmtuar, ose person që lëviz ngadalë.\n\nTrotuari duhet të jetë mjaftueshëm i ulët, madje i shtrirë në nivel edhe më të ulët në disa vende, që fëmija ose i rrituri i cili përdor karrocë ta kalojë rrugën ose udhëkryqin. Po ashtu trotuaret e ulëta duhet të kenë shtigje taktile, të cilat do ta orientojnë fëmijën ose të rriturin me shikim të dëmtuar ta kalojnë rrugën pa ndihmën e të tjerëve.";
+
+"equalTreatmantName" = "Trajtimi i barabartë";
+"equalTreatmantDescription" = "Ndër pengesat që është më rëndë të tejkalohen janë qëndrimet e njerëzve tjerë ndaj fëmijëve dhe të rriturve me paaftësi.  Pavarësisht nëse qëndrimi i këtillë është për shkak të mosnjohjes, frikës ose keqkuptimeve, qëndrimet e këtilla mund të pengojnë që njerëzit ta kuptojnë potencialin e plotë, që mund ta arrijnë fëmijët me paaftësi. Mostrajtimi i barabartë në raport me mundësitë, refuzimi ose mospranimi i fëmijëve me paaftësi në masë të madhe ndikon në inkluzionin e tyre dhe pjesëmarrjen në shoqëri. Disa prindër nuk pranojnë, që fëmijët me paaftësi të mësojnë në shkollë të njëjtë me fëmijët e tyre, ose nuk pranojnë që këta fëmijë të shoqërohen dhe të luajnë me fëmijët e tyre. Mirëpo disa prind të tjerë janë shumë mikpritës. Disa subjekte juridike nuk dëshirojnë t’i u ofrojnë shërbime të njëjta personave të rriturit dhe fëmijëve me paaftësi, sikurse që i ofrojnë shërbime fëmijëve dhe të rriturve, që nuk vuajnë nga ndonjë paaftësi. Nga ana tjetër ka prind të cilët kanë qëndrime më miqësore ndaj fëmijëve dhe të rriturve me paaftësi.";
+
+"hearingName" = "Aksesi për personat me dëgjim të dëmtuar";
+"hearingDescription" = "Për t’iu mundësuar personave me dëgjim të dëmtuar të marrin pjesë në aktivitete, shumë është me rëndësi që informacionet në publik dhe në vende tjera përveç formës auditive, të komunikohen edhe në atë vizuale.  Për shembull, titrat në kinema ose në shfaqje teatrale, gjuha e shenjave gjatë programeve televizive për fëmijë ndihmon në tejkalimin e barrierave në komunikim. Po ashtu, me rëndësi është të sigurohet akustikë e mirë në brendi dhe të rregullohen tingujt dhe zhurma dhe në objektet për rreth.";
+
+"parkingName" = "Qasja në parking";
+"parkingDescription" = "Për çdo 100 vende për parkim duhet të ketë së paku tre vende për fëmijët dhe të rriturit me paaftësi. Vendet për parkim me akses duhet të jenë të rrafshëta dhe të gjenden në afërsi të hyrjes së ndërtesës. Ata duhet të jenë më të gjëra sesa vend parkimet standarde, për shkak të qasjes se lehtësuar deri në makinë dhe sigurimit të hapësirës për lëvizje, siç është nxjerrja dhe vënia e karrocës pranë makinës. Ndërmjet parkingut për persona me paaftësi dhe hyrjes në objekt ose rrugë nuk duhet të ketë makina tjera të parkuara, me qëllim që të mund të kalojë fëmija ose personi i rritur që përdor karrocë.";
+
+"playgroundName" = "Fusha sporti dhe parqe me akses";
+"playgroundDescription" = "Parqet dhe fushat e sportit janë vende, në të cilat fëmijët dëshirojnë të kalojnë një pjesë të madhe të kohës së lirë. Si gjithë fëmijët e tjerë edhe ata me paaftësi dëshirojnë të luajnë. Për këtë arsye parqet dhe hapësirat e fëmijëve për të lozur duhet të jenë të disponueshme dhe të kenë qasje, ndërsa pajisjet dhe luhatëset në parqe duhet t’iu përshtaten fëmijëve me paaftësi.";
+
+"publicToaletsName" = "Tualete publike me akses";
+"publicToaletsDescription" = "Sikurse edhe të gjithë fëmijët tjerë, edhe fëmijët me paaftësi kanë nevojë të shfrytëzojnë tualetin. Natyrisht si gjithë fëmijët e tjerë edhe ata e arrijnë moshën, kur duan ta shfrytëzojnë tualetin të pavarur dhe pa ndihmën e të rriturve. Tualetet publike duhet të kenë hapësirë të mjaftueshme, që të mundësojnë lëvizje të lirë me karrocë, të kenë doreza dhe parmakë, si dhe të ofrojnë privatësi.";
+
+"publicTransportName" = "Transporti publik me akses";
+"publicTransportDescription" = "Fëmijët me paaftësi, sikurse gjithë fëmijët e tjerë kanë nevojë ta shfrytëzojnë transportin publik (ajror, hekurudhor dhe autobusët), pavarësisht nëse udhëtojnë me prindër, shoqërues, shok ose janë vetë. Për të mundësuar hyrje të pavarur në mjetin e transportit për fëmijët që shfrytëzojnë karrocë, transporti publik duhet të ketë rampë për qasje dhe platformë për karrocë. Po ashtu në transportin publik duhet të sigurohet vend për karrocën, sinjale vizuale për fëmijët dhe të rriturit me dëgjim të dëmtuar dhe informim të zëshëm për fëmijët dhe të rriturit me shikim të dëmtuar, në mënyrë që të dinë se në cilin stacion duhet të hipin ose të zbresin.";
+
+"ScreenTitle.Map" = "Harta";
+"ScreenTitle.Report" = "Paraqit";
+"ScreenTitle.BarrierTypes" = "Përshkrimi";
+"ScreenTitle.BarrierTypes.Title" = "Llojet e aksesit";
+"ScreenTitle.More" = "Më shumë";
+
+"Map.Pin.More" = "Detaje";
+
+"ReportForm.Photo" = "Fotografi:";
+"ReportForm.TypeOfProblem" = "Lloji i rastit:";
+"ReportForm.Positive" = "Pozitiv";
+"ReportForm.Negative" = "Negativ";
+"ReportForm.Description" = "Përshkrimi";
+"ReportForm.Terms" = "Unë i pranoj kushtet e përdorimit";
+"ReportForm.Report" = "Paraqit";
+"ReportForm.Error" = "Gabim";
+"ReportForm.ErrorDescription" = "Ju lusim zgjedhni një fotografi";
+"ReportForm.TypeOfProblemError" = "Ju lusim përzgjedhni llojin e shembullit";
+"ReportForm.Success.Report" = "Prezantoni në hartë";
+"ReportForm.Success.Text" = "Paraqitja juaj është dorëzuar me sukses";
+"ReportForm.ErrorSubmiting" = "Gabim";
+"ReportForm.TryAgain" = "Ju lusim provoni përsëri";
+"ReportForm.IAgree" = "Pajtohem";
+"ReportForm.WrongProblem" = "Pse mendoni se kjo paraqitje është joadekuate";
+"ReportForm.EnterSomeText" = "Ju lusim, shënoni tekstin";
+"ReportForm.ReportFalseProblem" = "PARAQITNI PËRMBAJTJE JO TE SAKTË";
+"ReportForm.ReportFalseProblem.Success" = "Lëshimi i paraqitjes për përmbajtje të pasaktë";
+"ReportForm.NoImage" = "Nuk ka fotografi";
+"ReportForm.InvalidPhoto" = "Fotografi jo e vlefshme";
+"ReportForm.InvalidPhotoDesription" = "Ju lusim zgjedhni fotografi tjetër me koordinate të GPS-së";
+"ReportForm.LocationDisabled" = "Janë të pamundësuara shërbimet e lokacionit";
+"ReportForm.LocationDisabledDescription" = "Ky aplikacion kërkon që shërbimet e lokacionit të jenë të aktivizuara, që paraqitja juaj të mund të përcaktohet në hartë. Ju lusim aktivizoni shërbimet e lokacionit dhe kthehuni në aplikacion.";
+"ReportForm.LocationDisabledAction" = "Hapni Cilësimet";
+"ReportForm.InternetDisabled" = "Lidhja e internetit nuk është aktive";
+"ReportForm.InternetDisabledDescription" = "Nuk ka lidhje të internetit, paraqitja është ruajtur. Aktivizo internetin, për të dërguar paraqitjen.";
+"ReportForm.OK" = "ОК";
+
+"BarrierTypes.Report" = "Paraqit";
+
+"Settings.Language"  = "Gjuha";
+"Settings.Tutorial"  = "Udhëzimi";
+"Settings.TermsOfUse"  = "Kushtet e përdorimit";
+"Settings.SubmitPetition"  = "Parashtroni ankesë";
+"Settings.About"  = "Për aplikacionin";
+"Settings.SelectLanguage"  = "Ju lusim zgjedheni gjuhën";
+
+"Cancel" = "Anulo";
+
+"PublicAttorney" = "Avokati i Popullit\nhttp://ombudsman.mk/";
+"KZD" = "Komisioni për mbrojtje nga diskriminimi\nhttp://www.kzd.mk/";
+"LegalInfo" = "Linku për informacione ligjore\nhttps://www.unicef.org/about/legal.html";

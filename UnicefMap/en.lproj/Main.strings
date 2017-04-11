@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "0yi-rS-PTo"; */
+"0yi-rS-PTo.text" = "Language";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "JMB-kO-67Y"; */
+"JMB-kO-67Y.text" = "English";
+
+/* Class = "UITabBarItem"; title = "Report"; ObjectID = "JlG-zt-AZU"; */
+"JlG-zt-AZU.title" = "Report";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "VeL-IE-T71"; */
+"VeL-IE-T71.title" = "Settings";
+
+/* Class = "UILabel"; text = "Terms and conditions"; ObjectID = "Xgu-pU-yA5"; */
+"Xgu-pU-yA5.text" = "Terms and conditions";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "Z9A-I5-rkj"; */
+"Z9A-I5-rkj.title" = "Settings";
+
+/* Class = "UITabBarItem"; title = "Examples"; ObjectID = "bo3-LE-lqQ"; */
+"bo3-LE-lqQ.title" = "Examples";
+
+/* Class = "UITableViewSection"; footerTitle = " "; ObjectID = "pGA-Yi-4Oo"; */
+"pGA-Yi-4Oo.footerTitle" = " ";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "pGA-Yi-4Oo"; */
+"pGA-Yi-4Oo.headerTitle" = " ";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "wnu-BB-3ha"; */
+"wnu-BB-3ha.title" = "Map";
